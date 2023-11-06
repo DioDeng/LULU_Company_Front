@@ -1,0 +1,110 @@
+[
+    {
+        "username": "Ian Medina",
+        "phone": "0912345678",
+        "products": [
+            {
+                "title": "冷媒",
+                "price": 1400,
+                "unit": 1
+            },
+            {
+                "title": "銅管",
+                "price": 2300,
+                "unit": 2
+            }
+        ],
+        "total": 6000,
+        "addDate": {
+            "date": "2023/6/8",
+            "time": "13:39"
+        },
+        "checkoutDate": {
+            "date": "2023/6/9",
+            "time": "08:39"
+        },
+        "address": "386 Windler Drives Apt. 358",
+        "status": "paid"
+    },
+    {
+        "username": "Ian Medina",
+        "phone": "0912345678",
+        "products": [
+            {
+                "title": "冷媒",
+                "price": 1400,
+                "unit": 1
+            },
+            {
+                "title": "銅管",
+                "price": 2300,
+                "unit": 2
+            }
+        ],
+        "total": 6000,
+        "addDate": {
+            "date": "2023/6/8",
+            "time": "13:39"
+        },
+        "checkoutDate": {
+            "date": "2023/6/9",
+            "time": "08:39"
+        },
+        "address": "386 Windler Drives Apt. 358",
+        "status": "shopping"
+    },
+    {
+        "username": "Ian Medina",
+        "phone": "0912345678",
+        "products": [
+            {
+                "title": "冷媒",
+                "price": 1400,
+                "unit": 1
+            },
+            {
+                "title": "銅管",
+                "price": 2300,
+                "unit": 2
+            }
+        ],
+        "total": 6000,
+        "addDate": {
+            "date": "2023/6/8",
+            "time": "13:39"
+        },
+        "checkoutDate": {
+            "date": "2023/6/9",
+            "time": "08:39"
+        },
+        "address": "386 Windler Drives Apt. 358",
+        "status": "done"
+    },
+    {
+        "username": "Ian Medina",
+        "phone": "0912345678",
+        "products": [
+            {
+                "title": "冷媒",
+                "price": 1400,
+                "unit": 1
+            },
+            {
+                "title": "銅管",
+                "price": 2300,
+                "unit": 2
+            }
+        ],
+        "total": 6000,
+        "addDate": {
+            "date": "2023/6/8",
+            "time": "13:39"
+        },
+        "checkoutDate": {
+            "date": "2023/6/9",
+            "time": "08:39"
+        },
+        "address": "386 Windler Drives Apt. 358",
+        "status": "unpaid"
+    }
+]

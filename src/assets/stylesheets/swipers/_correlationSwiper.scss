@@ -1,0 +1,19 @@
+  .teamSwiper .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    max-width: 400px;
+    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
+    filter: blur(4px);
+  }
+  .teamSwiper .swiper-slide-active {
+    filter: blur(0px);
+  }
+  .teamSwiper .swiper-slide img {
+    max-width: 100%;
+  }
+  
+  @media (max-width:576px) {
+    .teamSwiper .swiper-slide {
+      max-width: 280px;
+    }
+  }

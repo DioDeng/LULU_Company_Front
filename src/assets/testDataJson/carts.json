@@ -1,0 +1,49 @@
+{
+    "status": true,
+    "carts": [
+      {
+        "quantity": 2,
+        "id": "AA123AJSD213",
+        "product": {
+          "category": "空調",
+          "type": "冷媒",
+          "image": "https://fakeimg.pl/10",
+          "size": "12 lb",
+          "id": "產品ID  (String)",
+          "title": "R134a",
+          "origin_price": 1399,
+          "price": 1299
+        }
+      },
+      {
+        "quantity": 2,
+        "id": "AA853JFKSD293",
+        "product": {
+          "category": "空調",
+          "type": "室外架",
+          "image": "https://fakeimg.pl/10",
+          "size": "豪華鍍鋅(中)",
+          "id": "產品ID  (String)",
+          "title": "LULU牌鐵架",
+          "origin_price": 830,
+          "price": 799
+        }
+      },
+      {
+        "quantity": 1,
+        "id": "AA7643JFKSD392",
+        "product": {
+          "category": "空調",
+          "type": "冷媒被覆管",
+          "image": "https://fakeimg.pl/10",
+          "size": "2450",
+          "id": "產品ID  (String)",
+          "title": "LULU牌被覆銅管",
+          "origin_price": 4800,
+          "price": 4700
+        }
+      }
+    ],
+    "total": 9258,
+    "finalTotal": 8896
+  }

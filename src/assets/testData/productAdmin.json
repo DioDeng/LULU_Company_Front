@@ -1,0 +1,150 @@
+[
+    {
+        "title": "落地架",
+        "description": "一組20個",
+        "category": "冷氣",
+        "type": [
+            {
+                "size": "大",
+                "price": 2999,
+                "stock": 20,
+                "images": []
+            },
+            {
+                "size": "中",
+                "price": 1999,
+                "stock": 20,
+                "images": []
+            },
+            {
+                "size": "小",
+                "price": 999,
+                "stock": 10,
+                "images": []
+            }
+        ],
+        "isEnable": true
+    },
+    {
+        "title": "冷媒 R410A",
+        "description": "R410A冷媒作為當今廣泛使用的中高溫冷媒，主要應用於家用空調。R410A冷媒是新裝製冷設備上替R22的選擇；但是由於R410A與R22壓力不同（R410A壓力比R22要高得多）以及壓縮機用油等均不相同，因此對於初裝為R22冷媒的製冷設備的售後維修，如果需要再添加或更換冷媒，仍然只能添加R22，通常不能直接以R410A來替代R22；但是對於初裝使用R22的製冷設備，維修或替換時可以以R417A直接替換R22。",
+        "category": "冷氣",
+        "type": [
+            {
+                "size": "11.3kg / 25lb",
+                "price": 1550,
+                "stock": 50,
+                "images": []
+            }
+        ],
+        "isEnable": false
+    },
+    {
+        "title": "冷媒 R134a",
+        "description": "原裝進口國外自有品牌 英、日 品牌冷媒再包裝包裝：8kg ； 13.6kg。",
+        "category": "冷氣",
+        "type": [
+            {
+                "size": "8kg",
+                "price": 1400,
+                "stock": 50,
+                "images": []
+            },
+            {
+                "size": "13.6kg",
+                "price": 2000,
+                "stock": 50,
+                "images": []
+            },
+            {
+                "size": "22.7kg",
+                "price": 3200,
+                "stock": 50,
+                "images": []
+            }
+        ],
+        "isEnable": true
+    },
+    {
+        "title": "LULU牌銅管",
+        "description": "原廠公司貨",
+        "category": "冷氣",
+        "type": [
+            {
+                "size": "2330",
+                "price": 3950,
+                "stock": 50,
+                "images": []
+            },
+            {
+                "size": "2430",
+                "price": 5100,
+                "stock": 50,
+                "images": []
+            },
+            {
+                "size": "2520",
+                "price": 4775,
+                "stock": 50,
+                "images": []
+            },
+            {
+                "size": "3520",
+                "price": 5300,
+                "stock": 50,
+                "images": []
+            },
+            {
+                "size": "3620",
+                "price": 6400,
+                "stock": 50,
+                "images": []
+            }
+        ],
+        "isEnable": true
+    },
+    {
+        "title": "LULU牌鐵架",
+        "description": "原廠公司貨，室外機專用 冷氣架分離式",
+        "category": "冷氣",
+        "type": [
+            {
+                "size": "鍍鋅板-大",
+                "price": 500,
+                "stock": 50,
+                "images": []
+            },
+            {
+                "size": "鍍鋅板-中",
+                "price": 400,
+                "stock": 50,
+                "images": []
+            },
+            {
+                "size": "鍍鋅板-小",
+                "price": 300,
+                "stock": 50,
+                "images": []
+            },
+            {
+                "size": "白鐵-大",
+                "price": 1000,
+                "stock": 50,
+                "images": []
+            },
+            {
+                "size": "白鐵-中",
+                "price": 800,
+                "stock": 50,
+                "images": []
+            },
+            {
+                "size": "白鐵-小",
+                "price": 600,
+                "stock": 50,
+                "images": []
+            }
+        ],
+        "isEnable": true
+    }
+]
